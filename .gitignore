@@ -1,2 +1,6 @@
 *.pickle
 *.csv
+*.tfevents
+*.tsv
+catboost_training.json
+catboost_info.json
