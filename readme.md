@@ -1,6 +1,8 @@
 # Project Title
 
-This is a brief description of what this project is about.
+O desafio consiste em criar um modelo de Machine Learning para prever a nota de uma avaliação de um local no yelp. O dataset contém avaliações de usuários e a nota que eles deram para o local. O objetivo é criar um modelo que consiga prever a nota de uma avaliação com base no texto da avaliação.
+
+A estratégia que utilizei foi criar um modelo de classificação de texto para prever a nota de uma avaliação. Para isso, utilizei a biblioteca HuggingFace, que é uma biblioteca de Machine Learning que lida bem com dados categóricos e é otimizada para trabalhar com textos.
 
 ## Components
 
